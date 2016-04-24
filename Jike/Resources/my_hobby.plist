@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>篮球</string>
+	<string>游泳</string>
+	<string>爬山</string>
+	<string>郊游</string>
+	<string>暴走</string>
+	<string>跑步</string>
+	<string>单车</string>
+	<string>瑜伽</string>
+	<string>足球</string>
+	<string>滑板</string>
+	<string>滑雪</string>
+	<string>乒乓球</string>
+	<string>羽毛球</string>
+	<string>网球</string>
+	<string>棒球</string>
+	<string>曲棍球</string>
+	<string>板球</string>
+	<string>跳舞</string>
+	<string>唱歌</string>
+	<string>台球</string>
+	<string>高尔夫</string>
+	<string>健身</string>
+	<string>拳击</string>
+	<string>睡觉</string>
+	<string>看书</string>
+	<string>喝酒</string>
+	<string>看电影</string>
+	<string>二次元</string>
+	<string>宠物</string>
+	<string>桌游</string>
+	<string>摩托</string>
+	<string>飙车</string>
+	<string>party</string>
+	<string>学习</string>
+	<string>lol</string>
+	<string>魔兽</string>
+	<string>看片</string>
+</array>
+</plist>
